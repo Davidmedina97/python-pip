@@ -9,10 +9,10 @@ python3 main.py
 
 # App
 
-´´´sh
+```sh
 cd app
 python3 -m venv env
 source env/bin/activate
 pip install -r requirements.txt
 python3 main.py
-´´´
+```
